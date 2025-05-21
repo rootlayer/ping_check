@@ -12,3 +12,4 @@ A simple Bash script to ping a list of IP addresses from a text file and display
    https://github.com/rootlayer/ping_check.git
 
 
+![Screenshot_2025-05-21_08_32_57](https://github.com/user-attachments/assets/0be8cb33-b65b-4b7f-b0c9-efaea1f19098)
